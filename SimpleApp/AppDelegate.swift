@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SimpleApp
 //
-//  Created by Masha Chausovsky on 10/29/18.
+//  Created by Mark Nazzaro on 10/29/18.
 //  Copyright © 2018 King Ultimat0's Fabulous Creations. All rights reserved.
 //
 
@@ -16,6 +16,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        
         return true
     }
 
